@@ -13,7 +13,7 @@ Projek ini dibuat oleh **Jusuf Fathan Nuraly (Kelas XI)** untuk memenuhi tugas *
 ## 📸 Tangkapan Layar (Screenshot)
 
 <p align="center">
-  <img src="Screenshot 2026-06-10 113518" alt="Tampilan Garasi Premium" width="320" />
+  <img src="https://github.com/user-attachments/assets/507267ca-e658-4980-b325-f0a44045d97a" alt="Tampilan Garasi Premium" width="320" />
 </p>
 
 ## 🛠️ Teknologi yang Digunakan
