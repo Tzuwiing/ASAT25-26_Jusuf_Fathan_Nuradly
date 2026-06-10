@@ -2,7 +2,7 @@
 
 Aplikasi katalog armada mobil premium yang dirancang untuk menampilkan koleksi kendaraan mewah secara *real-time*. Aplikasi ini berfokus pada integrasi data berbasis API secara asinkronus serta penyajian antarmuka (UI) yang modern, bersih, dan elegan.
 
-Projek ini dibuat oleh **Jusuf Fathan Nuraly (Kelas XI)** untuk memenuhi tugas **Ujian Praktek Asesmen Akhir Tahun (AAT) Tahun Ajaran 2025/2026**.
+Projek ini dibuat oleh **Jusuf Fathan Nuraly (Kelas XI)** untuk memenuhi tugas **Ujian Praktek Asesmen Akhir Tahun (ASAT) Tahun Ajaran 2025/2026**.
 
 ## ✨ Fitur Utama
 
